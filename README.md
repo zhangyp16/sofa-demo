@@ -1,4 +1,3 @@
-# sofa-demo
 
 ## sofa-rpc 简单 demo
 

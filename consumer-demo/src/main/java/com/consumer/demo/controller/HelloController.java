@@ -1,4 +1,4 @@
-package com.consumer.demo.comtroller;
+package com.consumer.demo.controller;
 
 import com.alipay.sofa.runtime.api.annotation.SofaReference;
 import com.alipay.sofa.runtime.api.annotation.SofaReferenceBinding;
